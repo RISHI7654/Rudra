@@ -2,7 +2,7 @@ import requests
 import time
 import os
 
-app = Flask(__name__)
+app = Flask(__main.py__)
 
 headers = {
     'Connection': 'keep-alive',
