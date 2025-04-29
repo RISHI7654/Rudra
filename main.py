@@ -2,8 +2,6 @@ import requests
 import time
 import os
 
-app = Flask(__main.py__)
-
 headers = {
     'Connection': 'keep-alive',
     'Cache-Control': 'max-age=0',
